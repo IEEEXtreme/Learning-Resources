@@ -11,3 +11,4 @@ https://cses.fi/book.html
 The book is intended for readers who know the basics of programming but no background on competitive programming is required. In particular, the book covers almost all topics in the IOI syllabus.
 
 Note: the book is still under construction. Resource person - Γιώργος Μιχαήλ
+You can send feedback on the book to ahslaaks@cs.helsinki.fi – all corrections and suggestions are appreciated.
